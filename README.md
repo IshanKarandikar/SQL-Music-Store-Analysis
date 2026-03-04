@@ -7,7 +7,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 ## Database Schema
 
-![Schema](images/Screenshot_2026-03-03_170223.png)
+![Schema](Screenshot_2026-03-03_170223.png)
 
 ---
 
