@@ -7,7 +7,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 ## Database Schema
 
-![Schema](Screenshot_2026-03-03_170223.png)
+![Schema]("C:\Users\cr7is\OneDrive\Pictures\Screenshots\Screenshot 2026-03-03 170223.png")
 
 ---
 
