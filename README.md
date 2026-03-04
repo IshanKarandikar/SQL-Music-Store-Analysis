@@ -1,7 +1,7 @@
 # 🎵 Music Store SQL Analysis
 
 ## Project Overview
-This project analyzes a digital music store database using **PostgreSQL** to answer real business questions across sales, customer behavior, and music trends. The analysis covers 11 business questions across two difficulty levels using SQL concepts including JOINs, CTEs, Window Functions, Subqueries, and Aggregate Functions.
+This project analyzes a digital music store database using **PostgreSQL** to answer real business questions across sales, customer behavior, and music trends. The analysis covers 11 business questions using SQL concepts including JOINs, CTEs, Window Functions, Subqueries, and Aggregate Functions.
 
 ---
 
@@ -19,8 +19,6 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 ---
 
 ## Business Questions Solved
-
-### 🔴 Medium Level
 
 **Q1: Find email, first name, last name of all Rock band listeners arranged alphabetically.**
 
@@ -152,9 +150,7 @@ ORDER BY country;
 
 ---
 
-### 🟡 Easy Level
-
-**Q1: Who is the senior most employee based on job title?**
+**Q7: Who is the senior most employee based on job title?**
 
 ![Q1](images/LE%20Q1.png)
 
@@ -162,7 +158,7 @@ ORDER BY country;
 
 ---
 
-**Q2: Which countries have the most invoices?**
+**Q8: Which countries have the most invoices?**
 
 ![Q2](images/LE%20Q2.png)
 
@@ -170,7 +166,7 @@ ORDER BY country;
 
 ---
 
-**Q3: What are the top 3 values of total invoice?**
+**Q9: What are the top 3 values of total invoice?**
 
 ![Q3](images/LE%20Q3.png)
 
@@ -178,7 +174,7 @@ ORDER BY country;
 
 ---
 
-**Q4: Which city has the best customers?**
+**Q10: Which city has the best customers?**
 
 ![Q4](images/LE%20Q4.png)
 
@@ -186,7 +182,7 @@ ORDER BY country;
 
 ---
 
-**Q5: Who is the best customer based on total spending?**
+**Q11: Who is the best customer based on total spending?**
 
 ![Q5](images/L5%20Q5.png)
 
@@ -199,13 +195,13 @@ ORDER BY country;
 | Concept | Questions |
 |---|---|
 | SELECT, WHERE, ORDER BY, LIMIT | All questions |
-| Aggregate Functions (SUM, COUNT, AVG) | LE Q2, Q4, Q5, LM Q2, Q3, Q4 |
-| GROUP BY | LE Q2, Q4, Q5, LM Q2, Q4, Q5, Q6 |
-| INNER JOIN / JOIN | LE Q5, LM Q1, Q2, Q4, Q5, Q6 |
-| Subquery | LM Q1 |
-| CTE (WITH clause) | LM Q3, Q4, Q5, Q6 |
-| Window Functions RANK() / ROW_NUMBER() | LM Q4, Q5, Q6 |
-| DISTINCT | LM Q1 |
+| Aggregate Functions (SUM, COUNT, AVG) | Q2, Q3, Q4, Q5, Q8, Q9, Q10 |
+| GROUP BY | Q2, Q4, Q5, Q8, Q10, Q11 |
+| INNER JOIN / JOIN | Q1, Q2, Q4, Q5, Q6, Q11 |
+| Subquery | Q1 |
+| CTE (WITH clause) | Q3, Q4, Q5, Q6 |
+| Window Functions RANK() / ROW_NUMBER() | Q4, Q5, Q6 |
+| DISTINCT | Q1 |
 
 ---
 
