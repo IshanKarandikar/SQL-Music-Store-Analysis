@@ -7,7 +7,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 ## Database Schema
 
-![Schema](images/Screenshot_2026-03-03_170223.png)
+![Schema](images/Screenshot%202026-03-03%20170223.png)
 
 ---
 
@@ -24,7 +24,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q1: Who is the senior most employee based on job title?**
 
-![Q1](images/LE_Q1.png)
+![Q1](images/LE%20Q1.png)
 
 > **Answer:** Madan Mohan is the Senior Most Employee.
 
@@ -32,7 +32,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q2: Which countries have the most invoices?**
 
-![Q2](images/LE_Q2.png)
+![Q2](images/LE%20Q2.png)
 
 > **Answer:** USA has the most invoices with 131.
 
@@ -40,7 +40,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q3: What are the top 3 values of total invoice?**
 
-![Q3](images/LE_Q3.png)
+![Q3](images/LE%20Q3.png)
 
 > **Answer:** Top invoice value is 23.75 from France.
 
@@ -48,7 +48,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q4: Which city has the best customers?**
 
-![Q4](images/LE_Q4.png)
+![Q4](images/LE%20Q4.png)
 
 > **Answer:** Prague has the best customers with total invoice value of 273.24.
 
@@ -56,7 +56,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q5: Who is the best customer based on total spending?**
 
-![Q5](images/L5_Q5.png)
+![Q5](images/L5%20Q5.png)
 
 > **Answer:** R Madhav is the best customer from Prague with total value of 144.54.
 
@@ -66,7 +66,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q1: Find email, first name, last name of all Rock band listeners arranged alphabetically.**
 
-![MQ1](images/LM_Q1.png)
+![MQ1](images/LM%20Q1.png)
 
 > **Answer:** 59 Rock listeners found, sorted alphabetically.
 
@@ -74,7 +74,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q2: Which artists have written the most Rock music? Return top 10.**
 
-![MQ2](images/LM_Q2.png)
+![MQ2](images/LM%20Q2.png)
 
 > **Answer:** Led Zeppelin leads with 114 Rock tracks, followed by U2 with 112.
 
@@ -82,7 +82,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q3: Return names of tracks whose length is above average.**
 
-![MQ3](images/LM_Q3.png)
+![MQ3](images/LM%20Q3.png)
 
 > **Answer:** 494 tracks are above average duration. Longest is "Occupation / Precipice" at 5,286,953 ms.
 
@@ -90,7 +90,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q4: Who are the top 3 highest spending customers in each country?**
 
-![MQ4](images/LM_Q4.png)
+![MQ4](images/LM%20Q4.png)
 
 > **Answer:** 39 rows returned showing top 3 spenders per country.
 
@@ -98,7 +98,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q5: Find the most popular music genre for each country.**
 
-![MQ5](images/LM_Q5.png)
+![MQ5](images/LM%20Q5.png)
 
 > **Answer:** Rock is the most popular genre in most countries.
 
@@ -106,7 +106,7 @@ This project analyzes a digital music store database using **PostgreSQL** to ans
 
 **Q6: Find the customer that has spent the most money in each country.**
 
-![MQ6](images/LM_Q6.png)
+![MQ6](images/LM%20Q6.png)
 
 > **Answer:** 24 countries covered. Luis Gonçalves leads Brazil with 108.89.
 
